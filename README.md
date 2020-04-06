@@ -1,6 +1,6 @@
-# conversormoeda
+# Conversor de Moeda
 
-A new Flutter application.
+Criação de um projeto que converte as moedas em tempo real, usando uma API JSon.
 
 ## Getting Started
 
