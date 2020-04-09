@@ -121,7 +121,7 @@ void _clearAll(){
                           Divider(),
                           buildTextField("Dólares", "US\$", dolarController, _dolarChanged),
                           Divider(),
-                          buildTextField("Reais", "£", euroController, _euroChanged)
+                          buildTextField("Euro", "€", euroController, _euroChanged)
                         ],
                       ),
                     );
